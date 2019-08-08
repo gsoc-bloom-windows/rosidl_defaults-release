@@ -1,0 +1,4 @@
+Source: ros-dashing-rosidl-default-generators
+Version: 0.7.0
+Description: A configuration package defining the default ROS interface generators.
+Build-Depends:
