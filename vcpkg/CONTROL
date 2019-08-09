@@ -1,0 +1,4 @@
+Source: ros-dashing-rosidl-default-runtime
+Version: 0.7.0
+Description: A configuration package defining the runtime for the ROS interfaces.
+Build-Depends:
